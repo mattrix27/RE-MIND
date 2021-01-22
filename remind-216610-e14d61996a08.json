@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "remind-216610",
+  "private_key_id": "e14d61996a080559547e982e3c9d2e5f06c663a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhiTJHel1/yu/a\nLOSWep9IqztCff8tWLZy06JjXKQlAttY0TJIZoYY7kMCrH7QU/kxifxUtFuXPhd0\nZf0cYe7q54T4WvFRWor1UnwrdkLLvS+GAifzNIwE3d+TROrdmuYFxms1mmzduHif\nzsVF8Q3hnoIrjv9Gf70C8Ib8a4NNs2BdNPaV367Y4FrIhqXwiW6PveTrdvAG0BDl\n6ocRJXu1tNGdYmt8jxw6Ua2Z71CRjgTAW5zrcH5T5W6t+JfmW1GFyzRqMf3IrSq2\nB6IPaoteuvypcAgoGjmHUWTV4hfcERiLicgO8STtIh+RzX6OydUAgvixHWvsBSev\n+Mme0ClvAgMBAAECggEAIezozBlgf3dv0pJGhPTcs+op8lZl8D90G7Fbr8rrgrO7\nefs8hJPYyl7rY+IS+1RpBiYlojo1EtA2EqjAGlOy7tE0+RojoE4DMWQfJcyBagiY\nYaCTu4DlKlro+sv28QRlYxYAjMzLYSNoEFCNRSLoUyQW8ZAY3ypvgfCGED896OMb\nyp9pZMyLRcyKVfIDsNQIRqZHOJOF70WltNZxfSg/QKgr7B9xSbwr5TEW6pyof3+R\ngYKs5kqlJg7m4izswGOAIzzvwvyVW2wvSmUnazNsijgqX0vTTHXO7MPjYgZMEV5+\nv27sfu8FkuvmwCBFj/WgF1soFPdGO82qWG+IP80JsQKBgQD4qiKSVC+CTES4vf14\nhn0qERAvqNvwUjywC1/0pdp1jX+ObrIY+7swSC3Yid/FuSKTAKjPjw9GSjcZFQwV\n9mOPzaUsuumpDthR+YEuJcz6WeCgkbLcRyyz1xuBFgbnA66dP1LY6XidjI+R/i07\nHh0T9dQzs2RLA+rrZvanhKmlsQKBgQDoMGX4YPSlcuZbjgsVruxPkwKlJo7DXnVT\nLE/HpJTqN7eqI5zJqs+co0meIVPkd3YAFnigeJ1ks86JXhWqOBV8RP+wFAfY1u2H\nPur7IQgZfeGynsKqYnAM9a9YDQH7Ebd+mhSY5FidEiczKtE8G1M34/qowG/1JwAY\nMfx8EKfpHwKBgQCZJ8kFUX61hR4qnzI4ArWirEHI6PsWCMDCOS9Psrtb/dvbsUhW\nZO2FLl+2aC0ATigCXLycomNpCprnAvSfrlLiJmoeo7z42GDaFI/BCZ03cRYOL873\nJ4tb9RhGqHd13+mzhmYTnbEhcIqZA/F94O1N9vJNKaeTIIWXmaI/yVDn8QKBgFQ6\namNF2LnECqifyImfIP5k2ArNB/D7bRg09OP5YkPs3mWL8a5+lj2+RlBkyqgQZe/2\nNuAPoRkM2Rmf1cAgBDtGVHKtcYNJxHTRcDCVdPi6X4uKaBejCf7JiUgpv9QyQxxc\nDKjB/RtNoIbBO5HQX8ngm+dnl7WY5kHgsDTZXfAFAoGACSgql/aVk7TDW4VziBeP\nIKcmxAjH/x5/jYfoa13I/XC9p4dyyqMcQd/Yp9q4ijzw0GN1agUDwSl6KHfl/Ma6\nPftKachAs9eechTGXvi5VhTja8V7SZqXaIYjFpsvSLvCfTVIyvb6NxgBZ04Krt23\nZbS8bWinwkIZMmtQbCUaUSs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pilambot@remind-216610.iam.gserviceaccount.com",
+  "client_id": "100583596295885052328",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pilambot%40remind-216610.iam.gserviceaccount.com"
+}
